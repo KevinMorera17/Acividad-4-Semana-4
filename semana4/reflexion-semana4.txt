@@ -1,0 +1,7 @@
+las comunidades e iniciativas cuidadanas pueden beneficiarse mucho al crear sus
+propias herramientas tecnologicas con tecnologias abiertas como lo es node.js.
+estas son gratuitas y accesibles para cualquier persona. ademas, permiten adaptar
+a cada comunidad segun su necesidad, el uso de este software fomenta la colaboracion
+entre diferentes personas con sus conocimientos, y al ser gratuito ayuda a las
+personas que no pueden pagar por un programa como este, esto impulsa la
+innovacion, la inclusion digital y a las comunidades.
